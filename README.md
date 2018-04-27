@@ -11,4 +11,4 @@
 #### в-пятых, 
 группа черного цвета - люди, скоторыми я познакомилась на танцах несколько лет,и каждый из них знаком со мной и друг с другом.
 
-![](https://github.com/anastasiagoryaynova/hw8/blob/master/gephi.pdf)
+![](https://github.com/anastasiagoryaynova/hw8/blob/master/gephi.png)
